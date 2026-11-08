@@ -1,0 +1,1 @@
+{"scenario":"stall","produced":100,"accepted":8,"dropped":92,"received":0,"timeouts":0,"corrupt":0,"order_errors":0,"max_queue_depth":8,"max_latency_ticks":0,"pass":true}
